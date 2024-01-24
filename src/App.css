@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input{
+  height: 50px;
+  width: 600px;
+  border-radius: 10px;
+  font-size: x-large;
+  font-weight: 500;
+  padding: 0.5rem;
+}
